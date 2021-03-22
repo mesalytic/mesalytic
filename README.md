@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C# and Rust**
 - 👨‍💻 All of my projects are available here and at [My Website](https://aliceraina.moe)
 
-- 📫 If you want, you can reach out to me on Discord: [**@⚧ MesaVipère ❤#0101**](https://discordapp.com/users/604779545018761237)
+- 📫 If you want, you can reach out to me on Discord: [**@mesa#0101**](https://discordapp.com/users/604779545018761237)
 
 ### Languages and Tools:
 
