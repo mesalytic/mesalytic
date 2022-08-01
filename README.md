@@ -1,4 +1,4 @@
-# :wave: **Hello! I'm Alice**
+# :wave: **Hello!**
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/604779545018761237)](https://discord.com/users/604779545018761237) -->
 
