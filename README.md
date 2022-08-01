@@ -1,17 +1,5 @@
 # :wave: **Hello!**
 
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/604779545018761237)](https://discord.com/users/604779545018761237) -->
-
-
-<!-- ## You can view my github stats below ⬇️
-
-<a href="https://github.com/chocololat/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocololat&theme=vue-dark" height="180"/>
-</a>
-<a href="https://github.com/chocololat/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocololat&layout=compact&theme=vue-dark" height="180"/>
-</a> -->
-
 <a href="https://discord.com/users/604779545018761237">
     <img align="center" src="https://lanyard.cnrad.dev/api/604779545018761237" height="165"/>
 </a>
