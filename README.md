@@ -4,10 +4,6 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/604779545018761237" height="165"/>
 </a>
 
-<a href="https://github.com/chocololat/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=chocololat&count_private=true&show_icons=true&hide=contribs&theme=vue-dark" height="165"/>
-</a>
-
 ## IDEs I use
 [![IDEs](https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio)](https://skillicons.dev)
 
