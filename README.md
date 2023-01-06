@@ -12,6 +12,9 @@
 
 [![Technologies](https://skillicons.dev/icons?i=bash,cloudflare,discord,bots,docker,electron,git,github,gitlab,gradle,mongodb,mysql,redis)](https://skillicons.dev)
 
+## Skills I'm learning
+[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
 ## Skills I plan to learn
 [![Skills](https://skillicons.dev/icons?i=kotlin,lua,cs,ruby,wasm)](https://skillicons.dev)
 
