@@ -1,21 +1,23 @@
-# :wave: **Hello!**
+<div align="center"><h1><b>Hey, I'm Alice</b></h1></div>
 
-<a href="https://discord.com/users/604779545018761237">
-    <img align="center" src="https://lanyard.cnrad.dev/api/604779545018761237" height="165"/>
-</a>
+<div align="center"><b>🏳️‍⚧️ My pronouns are <ins>she/her</ins></b> 🏳️‍⚧️</div><br>
+<div align="center">I mostly code during my free time, but when I do, I love learning new skills, and surpassing myself.</div>
+<div align="center">I also like meeting people, and just enjoy life in general !</div>
 
-## IDEs I use
-[![IDEs](https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio)](https://skillicons.dev)
+<div align="center"><h3>Languages :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,nodejs,powershell">
+</p>
 
-## Skills I know
-[![Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,powershell)](https://skillicons.dev)
+<div align="center"><h3>Tools :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=discord,docker,electron,git,github,gitlab,gradle,mongodb,mysql,redis">
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode">
+</p>
 
-[![Technologies](https://skillicons.dev/icons?i=bash,cloudflare,discord,bots,docker,electron,git,github,gitlab,gradle,mongodb,mysql,redis)](https://skillicons.dev)
-
-## Skills I'm learning
-[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-## Skills I plan to learn
-[![Skills](https://skillicons.dev/icons?i=kotlin,lua,cs,ruby,wasm)](https://skillicons.dev)
-
-[![Technologies](https://skillicons.dev/icons?i=dotnet,deno,postgres,qt,rails)](https://skillicons.dev)
+<div align="center"><h3>Currently learning :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,cs,cpp">
+</p>
