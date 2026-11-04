@@ -1,4 +1,4 @@
-<div align="center"><h1><b>Hey, I'm Alice</b></h1></div>
+<div align="center"><h1><b>Hey, I'm Mesa</b></h1></div>
 
 <div align="center"><b>🏳️‍⚧️ My pronouns are <ins>she/her</ins></b> 🏳️‍⚧️</div><br>
 <div align="center">I mostly code during my free time, but when I do, I love learning new skills, and surpassing myself.</div>
@@ -6,7 +6,7 @@
 
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,nodejs,powershell">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,powershell">
 </p>
 
 <div align="center"><h3>Tools :</h3></div>
